@@ -66,8 +66,6 @@ The project is expected to use:
 - [ ] Evaluation and final report
 
 ## Reference
-
-References
 [1] K. J. Piczak, "ESC: Dataset for Environmental Sound Classification," in Proceedings of the 23rd ACM International Conference on Multimedia, pp. 1015-1018, 2015. DOI: 10.1145/2733373.2806390.
 
 [2] S. Chu, S. Narayanan, and C.-C. J. Kuo, "Environmental Sound Recognition With Time-Frequency Audio Features," IEEE Transactions on Audio, Speech, and Language Processing, vol. 17, no. 6, pp. 1142-1158, 2009. DOI: 10.1109/TASL.2009.2017438.
