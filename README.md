@@ -69,7 +69,11 @@ The project is expected to use:
 
 References
 [1] K. J. Piczak, "ESC: Dataset for Environmental Sound Classification," in Proceedings of the 23rd ACM International Conference on Multimedia, pp. 1015-1018, 2015. DOI: 10.1145/2733373.2806390.
+
 [2] S. Chu, S. Narayanan, and C.-C. J. Kuo, "Environmental Sound Recognition With Time-Frequency Audio Features," IEEE Transactions on Audio, Speech, and Language Processing, vol. 17, no. 6, pp. 1142-1158, 2009. DOI: 10.1109/TASL.2009.2017438.
+
 [3] K. J. Piczak, "Environmental Sound Classification with Convolutional Neural Networks," in 2015 IEEE 25th International Workshop on Machine Learning for Signal Processing, pp. 1-6, 2015. DOI: 10.1109/MLSP.2015.7324337.
+
 [4] M. K. Gourisaria, R. Agrawal, M. Sahni, and P. K. Singh, "Comparative Analysis of Audio Classification with MFCC and STFT Features Using Machine Learning Techniques," Discover Internet of Things, vol. 4, art. 1, 2024. DOI: 10.1007/s43926-023-00049-y.
+
 [5] S. Chachada and C.-C. J. Kuo, "Environmental sound recognition: a survey," APSIPA Transactions on Signal and Information Processing, vol. 3, e14, 2014. DOI: 10.1017/ATSIP.2014.12.
